@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.zip
+*.tar.gz
+*.egg-info/
+env/
+venv/
