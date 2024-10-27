@@ -5,11 +5,6 @@ A powerful, professional-grade toolkit designed for Windows optimization and aut
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![AsyncIO](https://img.shields.io/badge/Async-Enabled-green.svg)](https://docs.python.org/3/library/asyncio.html)
 
-
-## Overview
-
-**WinOptimizer** is a sophisticated Python-based utility tailored to facilitate the downloading and extraction of Windows optimization tools and scripts directly from various GitHub repositories and Sysinternals. Designed for efficiency and user-friendliness, this tool automates the entire process, ensuring that users have access to the latest versions of essential tools for optimizing their Windows environments.
-
 ## Table of Contents
 
 - [Features](#features)
