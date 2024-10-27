@@ -8,7 +8,7 @@ A powerful, professional-grade toolkit designed for Windows optimization and aut
 
 ## Overview
 
-**WinOptimize-Downloader** is a sophisticated Python-based utility tailored to facilitate the downloading and extraction of Windows optimization tools and scripts directly from various GitHub repositories and Sysinternals. Designed for efficiency and user-friendliness, this tool automates the entire process, ensuring that users have access to the latest versions of essential tools for optimizing their Windows environments.
+**WinOptimizer** is a sophisticated Python-based utility tailored to facilitate the downloading and extraction of Windows optimization tools and scripts directly from various GitHub repositories and Sysinternals. Designed for efficiency and user-friendliness, this tool automates the entire process, ensuring that users have access to the latest versions of essential tools for optimizing their Windows environments.
 
 ## Table of Contents
 
