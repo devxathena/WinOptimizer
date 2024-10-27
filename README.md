@@ -50,6 +50,10 @@ pip install -r requirements.txt
 1. Set your GitHub token in the script. This token is necessary for accessing private repositories and API rate limits. You can create a personal access token in your GitHub account settings under Developer Settings > Personal access tokens.
 
 2. Modify the `DESKTOP_PATH` variable if you want to change the download location.
+
+## Usage
+
+To initiate the download and extraction process, simply run the script:
 ```
 python WinOptimizer.py
 ```
